@@ -16,10 +16,12 @@
 
 .body
 {
+    margin: 0;
     background-color: lightgray
 }
 .title
 {
+    margin: 0;
     text-transform: none;
     font-size: 50px
 }
@@ -104,9 +106,36 @@ color: gray;
 
 .pagestructure
 {
-margin-top: 100px;
-margin-bottom: 100px;
-margin-right: 100px;
-margin-left: 100px;
-background-color: white;
+
+}
+
+header
+{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: white;
+}
+
+main
+{
+    padding: 30px;
+    max-width: 70%;
+margin-left: auto;
+margin-right: auto;
+margin-top: 50px;
+    background-color: white;
+}
+.conferma
+{
+    border: 2px solid #64c0a9;
+    border-radius: 100%;
+    padding: 4px;
+    ;
+}
+
+.errato
+{
+    border: 2px solid red;
+    border-radius: 100%;
+    padding: 4px;
 }
