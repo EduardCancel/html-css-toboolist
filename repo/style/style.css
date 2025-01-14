@@ -16,5 +16,10 @@
 
 .title
 {
-    width: 1rem;
+    text-transform: none;
+    font-size: 50px
+}
+.botton
+{
+;
 }
