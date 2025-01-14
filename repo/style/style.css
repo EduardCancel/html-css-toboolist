@@ -1,0 +1,20 @@
+:root
+{
+    --editorial-lightblue: #47adf1;
+    --q1-lightpurple: #9c72e4;
+    --recruiting-lightgreen: #64c0a9;
+    --mobile-orange: #f29e33;
+    --website-purple: #d863a1;
+    --sales-greenlight: #b0c926;
+
+}
+.immage
+{
+    float: left;
+
+}
+
+.title
+{
+    width: 1rem;
+}
