@@ -14,12 +14,32 @@
 
 }
 
+.body
+{
+    background-color: lightgray
+}
 .title
 {
     text-transform: none;
     font-size: 50px
 }
-.botton
+#button1
 {
+background-color: #47adf1;
+color: white;
+border: 2px solid #47adf1;
+border-radius: 8px;
+padding: 8px;
+}
 
+#button2
+{
+    background-color: rgb(224, 220, 220);
+    border: 2px solid lightslategray;
+    border-radius: 8px;
+    padding: 8px;
+}
+.line
+{
+color: gray;
 }
